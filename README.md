@@ -66,6 +66,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
+
 # api-sanctum-product
 Sanctum merupakan sebuah package yang disediakan oleh laravel. Memungkinkan developer untuk mengautentikasi sebuah API, agar API yang dibuat menjadi aman dan solid.
+Pada repositori ini saya membuat sebuah API yang solid dan aman karena telah di autentikasi menggunakan laravel sanctum.
 >>>>>>> bbeaca8757342a0fc100f70570535c2ade74f6e8
